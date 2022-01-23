@@ -1,2 +1,2 @@
 # projet-beat app
-Un quizz en HTML CSS JS 
+Un beatapp en HTML CSS JS 
